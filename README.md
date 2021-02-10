@@ -48,4 +48,4 @@ If you have any questions regarding this application please do not hesitate to r
 
 ## License
 
-MIT © [Liam Bambery](liambambery.com)
+MIT © [Liam Bambery](http://liambambery.com)
